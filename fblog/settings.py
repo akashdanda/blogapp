@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-8p86l*-n3-ufo6a(zkmk@wkz^0hp9#lsj=ch=*b%ddxqf$m+_&
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ["127.0.0.1"]
+ALLOWED_HOSTS = ["127.0.0.1",'fblog1.herokuapp.com/']
 
 STATICFILES_DIRS=["/Users/venka/Dev/blog/src/fblog/static",
 ]
